@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="073cf918-8089-46ad-a7f2-c88f07f7e7d4" name="Changes" comment="browsercommands-navigationcommands">
+    <list default="true" id="073cf918-8089-46ad-a7f2-c88f07f7e7d4" name="Changes" comment="browsercommands-navigationcommands-windowcommands">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/BrowserControlCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/BrowserControlCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/NavigationCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/NavigationCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/WindowCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/WindowCommands.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,11 +134,19 @@
       <option name="project" value="LOCAL" />
       <updated>1681464069679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="browsercommands-navigationcommands-windowcommands">
+      <created>1681466110564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681466110564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="browsercommands-navigationcommands" />
-    <option name="LAST_COMMIT_MESSAGE" value="browsercommands-navigationcommands" />
+    <MESSAGE value="browsercommands-navigationcommands-windowcommands" />
+    <option name="LAST_COMMIT_MESSAGE" value="browsercommands-navigationcommands-windowcommands" />
   </component>
 </project>
