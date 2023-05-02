@@ -34,6 +34,8 @@ public class C01_Alerts extends BaseClass {
         driver.switchTo().alert().sendKeys("canım ben");
         driver.switchTo().alert().accept();
 
+        driver.switchTo().alert().getText();
+
 
     }
 }

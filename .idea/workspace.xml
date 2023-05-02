@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="073cf918-8089-46ad-a7f2-c88f07f7e7d4" name="Changes" comment="browsercommands-navigationcommands-windowcommands">
+    <list default="true" id="073cf918-8089-46ad-a7f2-c88f07f7e7d4" name="Changes" comment="day10 is added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day01/BrowserControlCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day01/BrowserControlCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day01/NavigationCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day01/NavigationCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day01/WindowCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day01/WindowCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day02/WindowCommands2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day02/WindowCommands2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day08/C01_Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day08/C01_Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day10/C02_JS_Executor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day10/C02_JS_Executor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilities/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/BaseClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,77 +52,115 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/seleniumLessons/resources/library/lib/opentelemetry-api-logs-1.24.0-alpha.jar",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/IdeaProjects/seleniumLessons/resources/library/lib/opentelemetry-api-logs-1.24.0-alpha.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\IdeaProjects\seleniumLessons\resources\driver" />
       <recent name="C:\Users\LENOVO\IdeaProjects\seleniumLessons\resources\library" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\seleniumLessons\src\test\java\Day09" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\seleniumLessons\src\test\java\Day05" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.WindowCommands2">
-    <configuration name="BrowserControlCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01.BrowserControlCommands" />
+  <component name="RunManager" selected="JUnit.C01_Cookies.test01">
+    <configuration name="C01_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day10" />
+      <option name="MAIN_CLASS_NAME" value="Day10.C01_Actions" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigationCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01.NavigationCommands" />
+    <configuration name="C01_Actions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day10" />
+      <option name="MAIN_CLASS_NAME" value="Day10.C01_Actions" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01.WindowCommands" />
+    <configuration name="C01_Cookies.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01.*" />
+          <option name="PATTERN" value="Day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day11" />
+      <option name="MAIN_CLASS_NAME" value="Day11.C01_Cookies" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowCommands2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.WindowCommands2" />
+    <configuration name="C02_JS_Executor.jsExecutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day10" />
+      <option name="MAIN_CLASS_NAME" value="Day10.C02_JS_Executor" />
+      <option name="METHOD_NAME" value="jsExecutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_JS_Executor.scrollWithUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day10" />
+      <option name="MAIN_CLASS_NAME" value="Day10.C02_JS_Executor" />
+      <option name="METHOD_NAME" value="scrollWithUs" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WindowCommands2" />
-        <item itemvalue="Application.WindowCommands" />
-        <item itemvalue="Application.NavigationCommands" />
-        <item itemvalue="Application.BrowserControlCommands" />
+        <item itemvalue="JUnit.C01_Cookies.test01" />
+        <item itemvalue="JUnit.C02_JS_Executor.scrollWithUs" />
+        <item itemvalue="JUnit.C02_JS_Executor.jsExecutor" />
+        <item itemvalue="JUnit.C01_Actions" />
+        <item itemvalue="JUnit.C01_Actions.test" />
       </list>
     </recent_temporary>
   </component>
@@ -141,12 +187,123 @@
       <option name="project" value="LOCAL" />
       <updated>1681466110564</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="windowscommads2">
+      <created>1681466518578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681466518578</updated>
+    </task>
+    <task id="LOCAL-00004" summary="seleniumDay3">
+      <created>1681730920043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681730920043</updated>
+    </task>
+    <task id="LOCAL-00005" summary="seleniumDay3">
+      <created>1681731782562</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681731782562</updated>
+    </task>
+    <task id="LOCAL-00006" summary="webelementCommands">
+      <created>1681840548850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681840548850</updated>
+    </task>
+    <task id="LOCAL-00007" summary="locators">
+      <created>1681840631091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681840631091</updated>
+    </task>
+    <task id="LOCAL-00008" summary="xpath">
+      <created>1681842764529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681842764529</updated>
+    </task>
+    <task id="LOCAL-00009" summary="day5-xpath exercises">
+      <created>1682319965459</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682319965460</updated>
+    </task>
+    <task id="LOCAL-00010" summary="baseclass is created for jUnit">
+      <created>1682320037730</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682320037730</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day06_selenium">
+      <created>1682412586914</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682412586914</updated>
+    </task>
+    <task id="LOCAL-00012" summary="day07_dropdownAndWaits">
+      <created>1682531456989</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682531456989</updated>
+    </task>
+    <task id="LOCAL-00013" summary="alerts-iframe">
+      <created>1682605763247</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682605763247</updated>
+    </task>
+    <task id="LOCAL-00014" summary="basicAuth">
+      <created>1682606155779</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682606155779</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day09 is added">
+      <created>1682926260403</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682926260403</updated>
+    </task>
+    <task id="LOCAL-00016" summary="day10 is added">
+      <created>1682931202311</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682931202311</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="browsercommands-navigationcommands" />
     <MESSAGE value="browsercommands-navigationcommands-windowcommands" />
-    <option name="LAST_COMMIT_MESSAGE" value="browsercommands-navigationcommands-windowcommands" />
+    <MESSAGE value="windowscommads2" />
+    <MESSAGE value="seleniumDay3" />
+    <MESSAGE value="webelementCommands" />
+    <MESSAGE value="locators" />
+    <MESSAGE value="xpath" />
+    <MESSAGE value="day5-xpath exercises" />
+    <MESSAGE value="baseclass is created for jUnit" />
+    <MESSAGE value="day06_selenium" />
+    <MESSAGE value="day07_dropdownAndWaits" />
+    <MESSAGE value="alerts-iframe" />
+    <MESSAGE value="basicAuth" />
+    <MESSAGE value="day09 is added" />
+    <MESSAGE value="day10 is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="day10 is added" />
   </component>
 </project>

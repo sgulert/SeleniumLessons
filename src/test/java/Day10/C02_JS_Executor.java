@@ -42,7 +42,7 @@ public class C02_JS_Executor extends BaseClass {
 
         jse.executeScript("arguments[0].scrollIntoView()",driver.findElement(By.xpath("//img[@alt='Beauty picks']")));
 
-        //jse.executeScript("arguments[0].click(). scrollIntoView()",driver.findElement(By.xpath("//img[@alt='Beauty picks']")));
+        //jse.executeScript("arguments[0].click() scrollIntoView()",driver.findElement(By.xpath("//img[@alt='Beauty picks']")));
 
 
 
